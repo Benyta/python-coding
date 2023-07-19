@@ -1,1 +1,0 @@
-Second part of phyton task
